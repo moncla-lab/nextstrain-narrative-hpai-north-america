@@ -43,7 +43,7 @@ There are several unique attributes to this outbreak that have not been recogniz
 
 ### Unique feature 1: the role of wild birds
 
-This outbreak has seen unprecedented involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. The typical main players in H5N1 outbreaks and spread are Anseriformes and Galliformes. If we color the phylogeny by Order, we see that while these are still predominantly featured in this outbreak, there is a large proportion of other avian orders including over 100 acciptriformes infected (eagles, vultures, and hawks), and dozens of strigiformes (owls).  
+This outbreak has seen unprecedented involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. The typical main players in H5N1 outbreaks and spread are anseriformes (chickens) and galliformes (ducks and geese). If we color the phylogeny by Order, we see that while these are still predominantly featured in this outbreak, there is a large proportion of other avian orders including over 100 acciptriformes infected (eagles, vultures, and hawks), and dozens of strigiformes (owls).  
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&d=tree,map&p=full&r=division)
 
