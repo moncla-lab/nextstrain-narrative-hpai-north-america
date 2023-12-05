@@ -8,9 +8,13 @@ abstract: "This report presents an overview of the current outbreak of highly pa
 ---
 # [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/flu/avian/h5n1/ha?animate=1996-03-10,2023-10-11,1,1,30000&d=map&p=full) 
 
-Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, causing outbreaks primarily throughout Asia, Europe, and Africa. 
+Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa. 
 
-Late 2021, HPAI H5N1 was introduced into North America and has rapidly spread throughout the continent. Using Nextstrain, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
+**need to figure out how to make the map build go all the way**
+
+Late 2021, HPAI H5N1 was introduced into North America and has rapidly spread throughout the continent. 
+
+Using Nextstrain, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
 
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=grid&r=division)
@@ -28,7 +32,26 @@ When we color by migratory flyway, we can see that the main introduction from Eu
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&p=grid&r=division)
 
-Two of the major distinctions in this outbreak, is the involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. In this Nextstrain view, the tree is colored by host type. Here we see a high involvement of wildbirds, and repeated infections of non-human mammals throughout the phylogeny, and represented throughout the US. 
+There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
+
+### Unique feature 1: the role of wild birds
+The involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. In this Nextstrain view, the tree is colored by host type. Here we see a high involvement of wildbirds, as well repeated infections of non-human mammals throughout the phylogeny, and represented throughout the US. 
+
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&p=full&r=region)
+
+There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
+
+### Unique feature 1: the role of wild birds
+
+This outbreak has seen unprecedented involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. The typical main players in H5N1 outbreaks and spread are Anseriformes and Galliformes. If we color the phylogeny by Order, we see that while these are still predominantly featured in this outbreak, there is a large proportion of other avian orders including over 100 acciptriformes infected (eagles, vultures, and hawks), and dozens of strigiformes (owls).  
+
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&d=tree,map&p=full&r=division)
+
+There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
+
+### Unique feature 2: high incidences of mammal infections 
+
+In addition to non-canonical bird infections, this outbreak has also resulted in high incidences of mammal infections. These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, harbor seals) and small carnivores (foxes, skunks, etc.)
 
 # [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=Domestic_Status&scatterY=gt)
 
