@@ -6,9 +6,9 @@ date: "December 2023"
 dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
 abstract: "This report presents an overview of the current outbreak of highly pathogenic avian influenza in North America and highlights the utility of Nextstrain for interrogating outbreak dynamics."
 ---
-# [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/flu/avian/h5n1/ha?animate=1994-04-15,2002-05-14,1,1,30000&d=map&p=full) 
+# [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/flu/avian/h5n1/ha?animate=1996-03-10,2023-10-11,1,1,30000&d=map&p=full) 
 
-Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996 primarily causing outbreaks throughout Asia, Europe, and Africa. 
+Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, causing outbreaks primarily throughout Asia, Europe, and Africa. 
 
 Late 2021, HPAI H5N1 was introduced into North America and has rapidly spread throughout the continent. Using Nextstrain, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
 
