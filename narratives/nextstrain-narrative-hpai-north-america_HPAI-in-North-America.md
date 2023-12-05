@@ -4,7 +4,7 @@ authors: "Anna Jaeger"
 affiliations: "Moncla Lab, University of Pennsylvania"
 date: "December 2023"
 dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
-abstract: "This report presents an overview of the current outbreak of highly pathogenic avian influenza in North America and highlights the utility of Nextstrain for interrogating outbreak dynamics.
+abstract: "This report presents an overview of the current outbreak of highly pathogenic avian influenza in North America and highlights the utility of Nextstrain for interrogating outbreak dynamics."
 ---
 # [Highly pathogenic avian influenza in North America](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&p=grid&r=division) 
 
