@@ -10,8 +10,6 @@ abstract: "This report presents an overview of the current outbreak of highly pa
 
 Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa. 
 
-**need to figure out how to make the map build go all the way**
-
 Late 2021, HPAI H5N1 was introduced into North America and has rapidly spread throughout the continent. 
 
 Using Nextstrain, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
@@ -20,7 +18,9 @@ Using Nextstrain, we can infer the introductions of this virus into the US, iden
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=grid&r=division)
 
 ### Origins
-Phylogenetic reconstruction allows us to infer three introductions into North America that seeded this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia. ** need to upload global build for this slide ** 
+Phylogenetic reconstruction allows us to infer three introductions into North America that seeded this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia. 
+
+** need to upload global build for this slide ** 
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=grid&r=division)
 
