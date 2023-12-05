@@ -6,18 +6,24 @@ date: "December 2023"
 dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
 abstract: "This report presents an overview of the current outbreak of highly pathogenic avian influenza in North America and highlights the utility of Nextstrain for interrogating outbreak dynamics."
 ---
-# [Highly pathogenic avian influenza in North America](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&p=grid&r=division) 
+# [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/flu/avian/h5n1/ha?animate=1994-04-15,2002-05-14,1,1,30000&d=map&p=full) 
 
-insert global build with map timelapse here?? Or maybe avian big build time lapse so we can see China origins in '96..this might be confusing bc of LPAI branch with North America.
+Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996 primarily causing outbreaks throughout Asia, Europe, and Africa. 
 
-Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996. Late 2021, HPAI H5N1 was introduced into North America and has rapidly spread throughout the continent. Using Nextstrain, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
+Late 2021, HPAI H5N1 was introduced into North America and has rapidly spread throughout the continent. Using Nextstrain, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
 
-# [test of map buid](https://nextstrain.org/flu/avian/h5n1/ha?animate=1993-09-19,2023-10-11,0,0,30000&c=country)
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=grid&r=division)
 
-Phylogenetic reconstruction allows us to infer three introductions into North America that seeded this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia.
+### Origins
+Phylogenetic reconstruction allows us to infer three introductions into North America that seeded this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia. ** need to upload global build for this slide ** 
 
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=grid&r=division)
+
+### Origins
+Phylogenetic reconstruction allows us to infer three introductions into North America that seeded this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia. 
+
+### Onward spread
 When we color by migratory flyway, we can see that the main introduction from Europe was introduced to the Atlantic flyway, whereas the Asian introductions entered via the Pacific flyway. Viruses largely cluster within flyways with some transmission between flyways. Spread into Central America occurs within the Central Flyway. 
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&p=grid&r=division)
