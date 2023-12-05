@@ -4,7 +4,28 @@ authors: "Anna Jaeger"
 affiliations: "Moncla Lab, University of Pennsylvania"
 date: "December 2023"
 dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
+abstract: "This report presents an overview of the current outbreak of highly pathogenic avian influenza in North America and highlights the utility of Nextstrain for interrogating outbreak dynamics.
 ---
 # [Highly pathogenic avian influenza in North America](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&p=grid&r=division) 
 
-Highly pathogenic avian influenza (HPAI) has rapidly spread throughout North America since late 2021.
+insert global build with map timelapse here?? Or maybe avian big build time lapse so we can see China origins in '96..this might be confusing bc of LPAI branch with North America.
+
+Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996. Late 2021, HPAI H5N1 was introduced into North America and has rapidly spread throughout the continent. Using Nextstrain, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
+
+# [Origins and spread of the North American outbreak] (https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=grid&r=division)
+
+Phylogenetic reconstruction allows us to infer three introductions to North America to seed this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia.
+
+When we color by migratory flyway, we can see that the main introduction from Europe was introduced to the Atlantic flyway, whereas the Asian introductions entered via the Pacific flyway. Viruses largely cluster within flyways with some transmission between flyways. Spread into Central America occurs within the Central Flyway. 
+
+# [What is unique about this outbreak?] (https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&p=grid&r=division)
+
+Two of the major distinctions in this outbreak, is the involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. In this Nextstrain view, the tree is colored by host type. Here we see a high involvement of wildbirds, and repeated infections of non-human mammals throughout the phylogeny, and represented throughout the US. 
+
+# [Viral evolution] (https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627&d=tree,map&gmax=2283&gmin=4&l=scatter&p=grid&r=division&scatterX=Domestic_Status&scatterY=gt)
+
+Using Nextstrain filtering functionalities, we can also identify the prevalence of mutations of interest. One such mutation is PB2 E267K which is associated with mammalian host adaption. Here, we show that this mutation, as well as a different amino acid substitution- E627V are present in 14% of nonhuman mammal infections in all four flyways. 
+
+# [Assessing reassortent] (https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha:groups/moncla-lab/h5nx/north-america/na)
+
+We can also preliminarily assess reassortment of these virsues by visualizing tanglegrams, which pair trees from different gene segments and matches corresponding branches. **something about these not being like very quantitative or accurate without further tree manipulating it gives us a sense that there is likely a lot of reassortment going on in this outbreak**
