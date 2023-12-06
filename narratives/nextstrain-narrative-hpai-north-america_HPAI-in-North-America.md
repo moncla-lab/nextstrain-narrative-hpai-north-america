@@ -24,34 +24,43 @@ Phylogenetic reconstruction allows us to infer three introductions into North Am
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=grid&r=division)
 
-### Origins
-Phylogenetic reconstruction allows us to infer three introductions into North America that seeded this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia. 
+### *Origins*
+*Phylogenetic reconstruction allows us to infer three introductions into North America that seeded this outbreak. The major introduction responsible for the majority of infections (the main branch) came from Europe. There were additionally two separate introductions from Asia.*
 
 ### Onward spread
-When we color by migratory flyway, we can see that the main introduction from Europe was introduced to the Atlantic flyway, whereas the Asian introductions entered via the Pacific flyway. Viruses largely cluster within flyways with some transmission between flyways. Spread into Central America occurs within the Central Flyway. 
+Coloring by migratory flyway, we can see that the main introduction from Europe was introduced to the Atlantic flyway, whereas the Asian introductions entered via the Pacific flyway. Viruses largely cluster within flyways with some transmission between flyways. Spread into Central America occurs within the Central Flyway. 
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&p=grid&r=division)
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
-### Unique feature 1: the role of wild birds
+### 1. the role of wild birds
+
 The involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. In this Nextstrain view, the tree is colored by host type. Here we see a high involvement of wildbirds, as well repeated infections of non-human mammals throughout the phylogeny, and represented throughout the US. 
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&p=full&r=region)
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
-### Unique feature 1: the role of wild birds
+### 1. the role of wild birds
 
-This outbreak has seen unprecedented involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. The typical main players in H5N1 outbreaks and spread are anseriformes (chickens) and galliformes (ducks and geese). If we color the phylogeny by Order, we see that while these are still predominantly featured in this outbreak, there is a large proportion of other avian orders including over 100 acciptriformes infected (eagles, vultures, and hawks), and dozens of strigiformes (owls).  
+This outbreak has seen unprecedented involvement and infection of non-canonical wild bird species and a high rate of non-human mammal infections. The typical main players in H5N1 outbreaks and spread are anseriformes (chickens) and galliformes (ducks and geese). If we color the phylogeny by Order, we see that while these are still the predominant drivers of this outbreak, there is a large proportion of other avian orders including over 100 acciptriformes infected (eagles, vultures, and hawks), and dozens of strigiformes (owls).  
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&d=tree,map&p=full&r=division)
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
-### Unique feature 2: high incidences of mammal infections 
+### 2. high incidences of mammal infections 
 
-In addition to non-canonical bird infections, this outbreak has also resulted in high incidences of mammal infections. These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, harbor seals) and small carnivores (foxes, skunks, etc.)
+In addition to non-canonical bird infections, this outbreak has also resulted in high incidences of mammal infections. These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, seals) and small carnivores (foxes, skunks, etc.)
+
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&p=full&r=division)
+
+A snapshot of the diversity of species involved in this outbreak in New England summer 2022: 5 avian orders and multiple marine mammal infections (harbor and grey seals).
+
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&m=div&p=full&r=division)
+
+Maybe this snapshot is better shown as divergence instead of time??
 
 # [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=Domestic_Status&scatterY=gt)
 
