@@ -73,7 +73,7 @@ Using Nextstrain filtering functionalities, we can also assess the prevalence of
 Given the high incidences of mammalian infections during this outbreak, the presence of mammalian host adaptations arising is a significant concern. One such mutation is PB2 E267K, which is associated with mammalian host adaption. PB2 E267K- as well as a different amino acid substitution in teh same position, PB2 E627V- are present in 14% of nonhuman mammal infections. PB2 E267K is also present in wild birds, domestic birds, and a single sampled backyard bird infection. 
 
 
-# Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=Domestic_Status&d=tree,map&gmax=2283&gmin=4&gt=PB2.627K&p=grid&r=division)
+# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=Domestic_Status&d=tree,map&gmax=2283&gmin=4&gt=PB2.627K&p=grid&r=division)
 
 Using Nextstrain filtering functionalities, we can also identify the prevalence of mutations of interest. 
 
@@ -83,6 +83,4 @@ One such mutation is PB2 E267K which is associated with mammalian host adaption.
 
 This view filters for samples containing the PB2 267K mutation, colored by domestic status (Wild Bird, Domestic Bird, Backyard Bird, or Nonhuman Mammal). The muatation is present throughout the phylogeny and in samples from 10 states and one Canadian province, indiciating that this mutation has arisen independently multiple times during this outbreak. 
 
-# [Assessing reassortment](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha:groups/moncla-lab/h5nx/north-america/na)
 
-We can also preliminarily assess reassortment of these virsues by visualizing tanglegrams, which pair trees from different gene segments and matches corresponding branches. **something about these not being like very quantitative or accurate without further tree manipulating it gives us a sense that there is likely a lot of reassortment going on in this outbreak**
