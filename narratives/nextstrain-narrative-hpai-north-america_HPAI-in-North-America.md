@@ -58,7 +58,9 @@ In addition to non-canonical bird infections, this outbreak has also resulted in
 
 A snapshot of the diversity of species involved in this outbreak in New England summer 2022: 5 avian orders and multiple marine mammal infections (harbor and grey seals).
 
-***these didn't really work I don't think I can actually zoom in like that and have it captured in the narrative***
+```html
+<img src="https://github.com/moncla-lab/nextstrain-narrative-hpai-north-america/blob/narrative-update/figures/screenshot_tree_for-narrative.png?raw=true" alt="Caption for your figure" />
+```
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&m=div&p=full&r=division)
 
