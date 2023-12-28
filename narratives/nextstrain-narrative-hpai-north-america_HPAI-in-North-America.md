@@ -65,7 +65,7 @@ A snapshot of the diversity of species involved in this outbreak in New England 
 ```auspiceMainDisplayMarkdown
 
 <div>
-  <img alt="snapshot of species diversity in New England" width="100%" src="https://github.com/moncla-lab/nextstrain-narrative-hpai-north-america/blob/narrative-update/figures/screenshot_tree_for-narrative.png?raw=true"/>
+  <img alt="snapshot of species diversity in New England" width="200%" src="https://github.com/moncla-lab/nextstrain-narrative-hpai-north-america/blob/narrative-update/figures/screenshot_tree_for-narrative.png?raw=true"/>
 </div>
 
 ```
