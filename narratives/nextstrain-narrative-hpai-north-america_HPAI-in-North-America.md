@@ -56,15 +56,21 @@ In addition to non-canonical bird infections, this outbreak has also resulted in
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&p=full&r=division)
 
+
+
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&m=div&p=full&r=division)
+
 A snapshot of the diversity of species involved in this outbreak in New England summer 2022: 5 avian orders and multiple marine mammal infections (harbor and grey seals).
+
+```auspiceMainDisplayMarkdown
 
 ```html
 <img src="https://github.com/moncla-lab/nextstrain-narrative-hpai-north-america/blob/narrative-update/figures/screenshot_tree_for-narrative.png?raw=true" alt="Caption for your figure" />
 ```
 
-# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&m=div&p=full&r=division)
+```
 
-Maybe this snapshot is better shown as divergence instead of time??
+
 
 # [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=Domestic_Status&scatterY=gt)
 
