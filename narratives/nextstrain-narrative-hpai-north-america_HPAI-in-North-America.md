@@ -42,15 +42,19 @@ Coloring by migratory flyway, we can see that the main branch originating from E
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
-### 1. the role of wild birds, I
+### 1. The role of wild birds, part I
 
-This outbreak has resulted in high rates of infection in non-canonical wild bird species, as well as non-human mammal infections. Here, when we look at sequences as coming from wild or domestic (birds), mammals, or backyard birds, we see a high involvement of wild birds, as well infections of non-human mammals throughout North America. Backyard birds are designated as smaller-scale non-commercial domestic poultry (primarily chickens, yellow). Backyard birds infections are represented throughout the phylogeny which suggests their potential role as an intermediary facilitating infection beween wild and domestic birds.
+This outbreak has resulted in high rates of infection in non-canonical wild bird species, as well as non-human mammal infections. 
+
+Here, when we look at sequences as coming from wild or domestic (birds), mammals, or backyard birds, we see a high involvement of wild birds, as well infections of non-human mammals throughout North America. 
+
+Backyard birds are designated as smaller-scale non-commercial domestic poultry (primarily chickens, yellow). Backyard birds infections are represented throughout the phylogeny which suggests their potential role as an intermediary facilitating infection beween wild and domestic birds.
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&p=full&r=region)
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
-### 1. the role of wild birds, II
+### 1. The role of wild birds, part II
 
 The typical main drivers in HPAI outbreaks and spread are anseriformes (chickens) and galliformes (ducks and geese). If we analyze the types of birds affected in this outbreak at a higher resolution, we see that while these are still the predominant drivers of this outbreak, there are substantial numbers of infections in other avian orders including many raptors (eagles, vultures, owls, and hawks) and many passerines (primarily corvids). 
 
@@ -60,15 +64,17 @@ These infections have implications for conservation, as well as novel transmissi
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
-### 2. high incidences of mammal infections 
+### 2. Mammal infections 
 
 In addition to non-canonical wild bird infections, this outbreak has also resulted in high incidences of mammal infections. These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, seals) and small carnivores (foxes, skunks, etc.).
 
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&m=div&p=full&r=division)
 
-A snapshot of the novel diversity of species involved in this outbreak is exemplified in this branch of infections in New England summer 2022:
-At the top of this branch we see identical sequences collected from fulls, terns, geese, harbor seals, a grey seal, and peregrine falcons. This exemplifies the high level of species interaction annd diversity involved, and thus the significant challenge of stemming this outbreak.
+A snapshot of the novel diversity of species involved in this outbreak is exemplified in this branch of infections in New England summer 2022.
+
+
+At the top of this branch, we see identical sequences collected from gulls, terns, geese, harbor seals, a grey seal, and peregrine falcons in Maine and Massachussetts. This exemplifies the high level of species interaction annd diversity involved, and thus the significant challenge of controlling this outbreak.
 
 
 ```auspiceMainDisplayMarkdown
@@ -84,7 +90,7 @@ At the top of this branch we see identical sequences collected from fulls, terns
 
 Using Nextstrain filtering functionalities, we can also assess the prevalence of mutations of interest. 
 
-### mammalian adaptations, I:
+### Mammalian adaptations, part I:
 
 Given the high incidences of mammalian infections during this outbreak, the presence of mammalian host adaptations arising is a significant concern. 
 
@@ -95,7 +101,7 @@ One such mutation is PB2 E267K, which is associated with mammalian host adaption
 
 Using Nextstrain filtering functionalities, we can also identify the prevalence of mutations of interest. 
 
-### mammalian adaptations, II:
+### Mammalian adaptations, part II:
 
 *One such mutation is PB2 E267K which is associated with mammalian host adaption. PB2 E267K- as well as a different amino acid substitution in the same position, E627V- are present in 14% of nonhuman mammal infections. PB2 E267K is also found at lower rates in wild birds, domestic birds, and a single sampled backyard bird infection.* 
 
