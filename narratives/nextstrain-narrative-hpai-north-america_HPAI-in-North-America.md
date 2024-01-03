@@ -3,7 +3,7 @@ title: "HPAI outbreak dynamics in North America: 2021-present"
 authors: "Anna Jaeger"
 affiliations: "Moncla Lab, University of Pennsylvania"
 date: "December 2023"
-dataset: "[https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha]"
+dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
 abstract: "This report presents an overview of the current outbreak of highly pathogenic avian influenza in North America and highlights the utility of phylogenetics for interrogating outbreak dynamics."
 ---
 # [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/flu/avian/h5n1/ha?animate=1996-03-10,2023-10-11,1,1,30000&d=map&p=full) 
