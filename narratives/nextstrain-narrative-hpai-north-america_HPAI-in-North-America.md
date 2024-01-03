@@ -10,13 +10,10 @@ abstract: "This report presents an overview of the current outbreak of highly pa
 
 Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa. 
 
-# [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2021-10-03,2023-05-28,1,1,30000&c=division&d=tree,map&f_region=North%20America&p=full&r=division) 
+-add graph about influenza subtyping
+-add graph explaining high path (what is it high-path in? how is it determined- polybasic cleavage site)
 
-*Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa.* 
-
-Late 2021, HPAI H5Nx belonging to clade 2.3.4.4.b was introduced into North America and has rapidly spread throughout the continent. 
-
-Using phylogenetics, we can infer the introductions of this virus into the US, identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
+-couple sentences about natural circulation in wild aquattic birds, but these are now in domestic birds around the world
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?d=tree,map&p=grid)
 
@@ -29,14 +26,24 @@ There were additionally multiple separate introductions from Asia during this ti
 
 This global phylogenetic reconstruction also shows that introduction into North America has led to further spread of HPAI to new regions during this outbreak, including South America (orange) and most recently, Antarctica (dark blue).
 
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2021-10-03,2023-05-28,1,1,30000&c=division&d=tree,map&f_region=North%20America&p=full&r=division) 
+
+Since this introduction in late 2021 into North America, HPAI H5Nx belonging to clade 2.3.4.4.b w has rapidly spread rapidly throughout the continent. 
+
+Using phylogenetics, we can further identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
+
+# [HPAI in North America by the numbers](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=full&r=division)
+
+-make a code chunk format to put links into the right hand panel to USDA report, and Wille paper.
+-Scale of the outbreak: # of birds infected # of mammals
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=full&r=division)
 
 
 ### Onward spread
-Zooming in to just North America, we can further analyze transmission dynamics and the factors contributing to the spread within the continent. 
+One reason we have seen such rapid spread throughout the continent is likely facilitated through the movement of wild birds. 
 
-Coloring by migratory flyway, we can see that the main branch originating from Europe was introduced to the Atlantic flyway, whereas the smaller branch introduced from Asia entered via the Pacific flyway. Viruses largely cluster within flyways with some transmission between flyways. 
+Coloring by migratory flyway, we can see that the main branch originating from Europe was introduced to the Atlantic flyway, whereas the smaller branch introduced from Asia entered via the Pacific flyway. Viruses largely cluster within flyways with some transmission between flyways.
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&d=tree,map&p=grid&r=division)
 
@@ -49,6 +56,8 @@ This outbreak has resulted in high rates of infection in non-canonical wild bird
 Here, when we look at sequences as coming from wild or domestic (birds), mammals, or backyard birds, we see a high involvement of wild birds, as well infections of non-human mammals throughout North America. 
 
 Backyard birds are designated as smaller-scale non-commercial domestic poultry (primarily chickens, yellow). Backyard birds infections are represented throughout the phylogeny which suggests their potential role as an intermediary facilitating infection beween wild and domestic birds.
+
+An important caveat to this analysis is sampling biases and limitations. Information on backyard bird status is only available from the initial outbreak period in spring 2022, therefore their role in ongoing transmission and maintenance is presently unknown. Additionally, wildbirds are undersampled and difficult to sample, making this outbreak especially difficult to understand and analyze appropriately.
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&p=full&r=region)
 
@@ -66,7 +75,7 @@ There are several unique attributes to this outbreak that have not been recogniz
 
 ### 2. Mammal infections 
 
-In addition to non-canonical wild bird infections, this outbreak has also resulted in high incidences of mammal infections. These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, seals) and small carnivores (foxes, skunks, etc.).
+In addition to non-canonical wild bird infections, this outbreak has also resulted in high incidences of mammal infections. These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, seals) and small carnivores (foxes, skunks, etc.). The primarily northern distribution of mammalian infections is due to red foxes being the most commonly infected mammal sampled in this outbreak. 
 
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&m=div&p=full&r=division)
@@ -109,6 +118,13 @@ By filtering the tree and map to just these sequences containing the PB2 267K mu
 
 # [Conclusions](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
 
-Some sort of conclusion or acknowledgements?
+### Take home messages:
 
+The current outbreak of the HPAI in North America has been unprecedented in scope and scale, with detrimental consequences due to subsequent spread to South America and Antarctica. High levels of species or avian and mammalian diversity involved have rendered previous control measures- such as domestic poultry culling- insufficient
+
+#### Future outlook:
+
+It is uncertain how this outbreak will progress and what the future holds of HPAI in North America. If it follows a similar trajectory to Europe, we could see endemicity of HPAI with seasonal outbreaks. It remains to be seen how this could impact ecology and agriculture.
+
+Given this uncertainty-- and complicated ecology of this outbreak-- we need continued and increased surveillance in wild birds to understand both the current dynamics and better predict and curtail future outbreaks and spread.
 
