@@ -10,7 +10,7 @@ abstract: "This report presents an overview of the current outbreak of highly pa
 
 Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa. 
 
-# [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2021-09-24,2023-05-28,1,1,30000&c=division&d=tree,map&f_region=North%20America&p=grid&r=division) 
+# [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2020-09-14,2023-05-28,1,1,30000&c=division&f_region=North%20America&r=division) 
 
 *Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa.* 
 
