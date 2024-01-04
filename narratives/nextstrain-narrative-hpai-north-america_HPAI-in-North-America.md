@@ -29,6 +29,7 @@ This global phylogenetic reconstruction also shows that introduction into North 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?animate=2020-06-26,2023-12-05,0,1,30000&d=map&p=full)
 
 ***Origins***
+
 *Phylogenetic reconstruction allows us to infer the introductions into North America that seeded this outbreak.*
 
 *Looking at the global dynamics of H5Nx since 2021, we can see that the major introduction responsible for the majority of infections (the main branch) came from Europe.*
