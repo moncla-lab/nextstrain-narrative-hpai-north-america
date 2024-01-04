@@ -10,10 +10,9 @@ abstract: "This report presents an overview of the current outbreak of highly pa
 
 Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa. 
 
--add graph about influenza subtyping
--add graph explaining high path (what is it high-path in? how is it determined- polybasic cleavage site)
+Influenza A viruses are divided into subtypes determined by the combination of their two surface proteins, hemagglutinin (H), for which there are 16, and neuraminidase (N), for which there are 9 which infect birds. Each combination of H and N is a different subtype. H5N1 is the predominant subtype of the current HPAI outbreak, however some other N subtypes are inolved as well, thus we primarily refer to the viruses in this outbreak as "H5Nx". Viruses are further classified into clades, which is a determined based on HA gene sequence similarity. Viruses in the present outbreak belong to clade 2.3.4.4b.
 
--couple sentences about natural circulation in wild aquattic birds, but these are now in domestic birds around the world
+Avian influenza viruses are further classified by their pathogenicity, which is designated as high-path (HP) or low-path (LP) due to their ability to cause disease in domestic chickens. This pathogenic outcome is primarily determined by the absence (LP) or presence (HP) of a polybasic HA cleavage site. Wild aquatic birds are the primary natural reservoir host for avian influenza.
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?d=tree&p=full)
 
