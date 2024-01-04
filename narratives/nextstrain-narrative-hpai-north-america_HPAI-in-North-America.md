@@ -37,7 +37,7 @@ This global phylogenetic reconstruction also shows that introduction into North 
 
 *This global phylogenetic reconstruction also shows that introduction into North America has led to further spread of HPAI to new regions during this outbreak, including South America (orange) and most recently, Antarctica (dark blue).*
 
-# These dynamics described above are clearly shown in the phylogenetic tree, and recapitulated in this map view. 
+# These dynamics described above are clearly shown in the phylogenetic tree, and recapitulated in this map view.  
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2021-10-03,2023-05-28,1,1,30000&c=division&d=tree,map&f_region=North%20America&p=full&r=division) 
 
