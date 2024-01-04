@@ -15,7 +15,7 @@ Highly pathogenic avian influenza (HPAI) has disseminated globally since the eme
 
 -couple sentences about natural circulation in wild aquattic birds, but these are now in domestic birds around the world
 
-# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?d=tree,map&p=grid)
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?p=grid)
 
 ### Origins
 Phylogenetic reconstruction allows us to infer the introductions into North America that seeded this outbreak. 
