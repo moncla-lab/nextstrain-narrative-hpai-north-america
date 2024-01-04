@@ -49,9 +49,9 @@ Using phylogenetics, we can further identify patterns of spread between species 
 
 ### Further Reading:
 
-* [USDA report] (https://www.aphis.usda.gov/animal_health/downloads/animal_diseases/ai/epi-analyses-hpai-poultry-july2022.pdf)
-* [USDA avian influenza resources and updates] (https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/2022-hpai)
-* [The plight and role of wild birds in the current bird fu panzootic] (https://www.nature.com/articles/s41559-023-02182-x)
+* [USDA report](https://www.aphis.usda.gov/animal_health/downloads/animal_diseases/ai/epi-analyses-hpai-poultry-july2022.pdf)
+* [USDA avian influenza resources and updates](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/2022-hpai)
+* [The plight and role of wild birds in the current bird fu panzootic](https://www.nature.com/articles/s41559-023-02182-x)
 
 ```auspiceMainDisplayMarkdown
 
