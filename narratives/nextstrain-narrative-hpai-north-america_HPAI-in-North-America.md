@@ -86,7 +86,7 @@ Here, when we look at sequences as coming from wild or domestic (birds), mammals
 
 Backyard birds are designated as smaller-scale non-commercial domestic poultry (primarily chickens, yellow). Backyard birds infections are represented throughout the phylogeny which suggests their potential role as an intermediary facilitating infection beween wild and domestic birds.
 
-An important caveat to this analysis is sampling biases and limitations. Information on backyard bird status is only available from the initial outbreak period in spring 2022, therefore their role in ongoing transmission and maintenance is presently unknown. Additionally, wildbirds are undersampled and difficult to sample, making this outbreak especially difficult to understand and analyze appropriately.
+*An important caveat to this analysis is sampling biases and limitations. Information on backyard bird status is only available from the initial outbreak period in spring 2022, therefore their role in ongoing transmission and maintenance is presently unknown. Additionally, wildbirds are undersampled and difficult to sample, making this outbreak especially difficult to understand and analyze appropriately.*
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&p=full&r=region)
 
