@@ -39,7 +39,7 @@ This global phylogenetic reconstruction also shows that introduction into North 
 
 #### These dynamics described above are clearly shown in the phylogenetic tree, and recapitulated in this map view.  
 
-# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2021-10-03,2023-05-28,1,1,30000&c=division&d=tree,map&f_region=North%20America&p=full&r=division&LegendOpen) 
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2021-06-24,2023-05-28,1,1,30000&c=division&d=tree,map&p=full&r=division&LegendOpen) 
 
 Since this introduction in late 2021 into North America, HPAI H5Nx viruses belonging to clade 2.3.4.4.b have rapidly spread rapidly throughout the continent. 
 
