@@ -34,8 +34,23 @@ Using phylogenetics, we can further identify patterns of spread between species 
 
 # [HPAI in North America by the numbers](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=full&r=division)
 
--make a code chunk format to put links into the right hand panel to USDA report, and Wille paper.
--Scale of the outbreak: # of birds infected # of mammals
+### Further Reading:
+
+* [USDA report] (https://www.aphis.usda.gov/animal_health/downloads/animal_diseases/ai/epi-analyses-hpai-poultry-july2022.pdf)
+* [USDA avian influenza resources and updates] (https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/2022-hpai)
+* [The plight and role of wild birds in the current bird fu panzootic] (https://www.nature.com/articles/s41559-023-02182-x)
+
+```auspiceMainDisplayMarkdown
+
+Since 2022 in the United States, HPAI H5Nx has been detected in:
+
+* 200 mammals in 19 species and 26 states.
+* Over 8,500 wild birds in 50 states.
+* Over 1,000 commercial and backyard poultry flocks (over 77 million birds in 47 states).
+* One human in April 2022 in the US.
+
+```
+
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=full&r=division)
 
