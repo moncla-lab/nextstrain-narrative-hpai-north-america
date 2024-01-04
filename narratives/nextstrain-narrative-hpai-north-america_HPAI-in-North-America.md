@@ -10,16 +10,16 @@ abstract: "This report presents an overview of the current outbreak of highly pa
 
 Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa. 
 
-Influenza A viruses are divided into subtypes determined by the combination of their two surface proteins, hemagglutinin (H), for which there are 16, and neuraminidase (N), for which there are 9 which infect birds. Each combination of H and N is a different subtype. H5N1 is the predominant subtype of the current HPAI outbreak, however some other N subtypes are inolved as well, thus we primarily refer to the viruses in this outbreak as "H5Nx". Viruses are further classified into clades, which is a determined based on HA gene sequence similarity. Viruses in the present outbreak belong to clade 2.3.4.4b.
+Influenza A viruses are divided into subtypes determined by the combination of their two surface proteins, hemagglutinin (H), for which there are 16, and neuraminidase (N), for which there are 9. Each combination of H and N is a different subtype. H5N1 is the predominant subtype of the current HPAI outbreak, however some other N subtypes are inolved as well, thus we primarily refer to this outbreak as "H5Nx". Viruses are further classified into clades, which is determined based on HA gene sequence similarity. Viruses in the present outbreak belong to clade 2.3.4.4b.
 
-Avian influenza viruses are further classified by their pathogenicity, which is designated as high-path (HP) or low-path (LP) due to their ability to cause disease in domestic chickens. This pathogenic outcome is primarily determined by the absence (LP) or presence (HP) of a polybasic HA cleavage site. Wild aquatic birds are the primary natural reservoir host for avian influenza.
+Avian influenza viruses are further classified by their pathogenicity, which is designated as high-path (HP) or low-path (LP) due to their ability to cause disease in domestic chickens. Genetically, this pathogenic outcome is primarily determined by the absence (LP) or presence (HP) of a polybasic HA cleavage site. Wild aquatic birds are the primary natural reservoir host for avian influenza.
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?d=tree&p=full)
 
 ### Origins
 Phylogenetic reconstruction allows us to infer the introductions into North America that seeded this outbreak. 
 
-Looking at the global dynamics of H5Nx since 2021, we can see that the major introduction responsible for the majority of infections (the main branch) came from Europe. 
+Looking at the global dynamics of H5Nx since 2021, we can see that the major introduction responsible for the majority of infections (the main red branch) came from Europe. 
 
 There were additionally multiple separate introductions from Asia during this time, however these have not seemed to have contributed to onward transmission within North America. 
 
@@ -41,7 +41,7 @@ This global phylogenetic reconstruction also shows that introduction into North 
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?animate=2021-10-03,2023-05-28,1,1,30000&c=division&d=tree,map&f_region=North%20America&p=full&r=division) 
 
-Since this introduction in late 2021 into North America, HPAI H5Nx belonging to clade 2.3.4.4.b w has rapidly spread rapidly throughout the continent. 
+Since this introduction in late 2021 into North America, HPAI H5Nx viruses belonging to clade 2.3.4.4.b have rapidly spread rapidly throughout the continent. 
 
 Using phylogenetics, we can further identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
 
@@ -55,7 +55,9 @@ Using phylogenetics, we can further identify patterns of spread between species 
 
 ```auspiceMainDisplayMarkdown
 
+
 ### Since 2022 in the United States, HPAI H5Nx has been detected in:
+
 
 * 200 mammals in 19 species and 26 states.
 * Over 8,500 wild birds in 50 states.
