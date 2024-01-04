@@ -42,7 +42,7 @@ Using phylogenetics, we can further identify patterns of spread between species 
 
 ```auspiceMainDisplayMarkdown
 
-Since 2022 in the United States, HPAI H5Nx has been detected in:
+### Since 2022 in the United States, HPAI H5Nx has been detected in:
 
 * 200 mammals in 19 species and 26 states.
 * Over 8,500 wild birds in 50 states.
