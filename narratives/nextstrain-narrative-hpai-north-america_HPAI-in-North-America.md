@@ -133,7 +133,7 @@ Using Nextstrain filtering functionalities, we can also assess the prevalence of
 
 Given the high incidences of mammalian infections during this outbreak, the presence of mammalian host adaptations arising is a significant concern. 
 
-One such mutation is PB2 E267K, which is associated with mammalian host adaption. PB2 E267K- as well as a different amino acid substitution in teh same position, PB2 E627V- are present in 14% of nonhuman mammal infections. PB2 E267K is also present in wild birds, domestic birds, and a single sampled backyard bird infection. 
+One such mutation is PB2 E267K, which is associated with mammalian host adaption. PB2 E267K- as well as a different amino acid substitution in the same position, PB2 E627V- are present in 14% of nonhuman mammal infections. PB2 E267K is also present in wild birds, domestic birds, and a single sampled backyard bird infection. 
 
 
 # [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=Domestic_Status&d=tree,map&f_region=North%20America&gmax=2283&gmin=4&gt=PB2.627K&p=grid&r=division)
