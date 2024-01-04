@@ -154,5 +154,5 @@ The current outbreak of the HPAI in North America has been unprecedented in scop
 
 It is uncertain how this outbreak will progress and what the future holds of HPAI in North America. If it follows a similar trajectory to Europe, we could see endemicity of HPAI with seasonal outbreaks. It remains to be seen how this could impact ecology and agriculture.
 
-Given this uncertainty-- and complicated ecology of this outbreak-- we need continued and increased surveillance in wild birds to understand both the current dynamics and better predict and curtail future outbreaks and spread.
+Given this uncertainty- and complicated ecology of this outbreak- we need continued and increased surveillance in wild birds to understand both the current dynamics and better predict and curtail future outbreaks and spread.
 
