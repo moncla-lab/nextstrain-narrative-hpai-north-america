@@ -17,13 +17,14 @@ The H5Nx outbreak in the Americas that began in 2021 has been unusual in several
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?d=tree&p=full)
 
+### Where do these data come from?
+The USDA has been leading outbreak investigation in the United States, and tracks case counts for every positive case of HPAI in domestic and wild animals. As part of this surveillance and testing program, USDA scientists generate whole genome sequence data for some viral isolates and release that data on public databases, which make up a large fraction of the sequences used in the analyses shown in this narrative. We are extremely grateful to the USDA for their fantastic outbreak response and timely data sharing. For more information, check out their dashboard with surveillance and case count data [here (domestic birds)](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-commercial-backyard-flocks) and [here (wild birds)](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-wild-birds), or read their [paper](https://www.sciencedirect.com/science/article/pii/S0042682223001733) on the outbreak for more information on their response efforts. 
+
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?animate=2020-06-26,2023-12-05,0,1,30000&d=map&p=full)
+
+
 ### Origins
 
-*Where do these data come from?*
-The USDA has been leading outbreak investigation in the United States, and track case counts for every positive case of HPAI in domestic and wild animals. As part of this surveillance and testing program, USDA scientists generate whole genome sequence data for some viral isolates and release that data on public databases, which make up a large fraction of the sequences used in the analyses shown in this narrative. We are extremely grateful to the USDA for their fantastic outbreak response and timely data sharing. For more information, check out their dashboard with surveillance and case count data [here (domestic birds)](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-commercial-backyard-flocks) and [here (wild birds)](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-wild-birds), or read their [paper](https://www.sciencedirect.com/science/article/pii/S0042682223001733) on the outbreak for more information on their response efforts. 
-
-
-*Origins of the North America Outbreak*
 Phylogenetic reconstruction allows us to infer the introductions into North America that seeded this outbreak. 
 
 Looking at the global dynamics of H5Nx clade 2.3.4.4b since 2021, we can see that the major introduction responsible for the majority of infections (the main red branch) came from Europe. 
