@@ -1,7 +1,8 @@
 ---
 title: "HPAI outbreak dynamics in North America: 2021-present"
 authors: "Anna Jaeger and Louise Moncla"
-affiliations: "[Moncla Lab](https://lmoncla.github.io/monclalab/), Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania"
+[Moncla Lab](https://lmoncla.github.io/monclalab/), 
+affiliations: "Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania"
 date: "January 2024"
 dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
 abstract: "In December of 2021, highly pathogenic avian influenza viruses (HPAI) of the H5 subtype were detected in wild and domestic birds in Newfoundland, Canada. Since then, H5Nx has spread throughout the Americas, impacting wildlife, agricultural animals, and human health. Viral genomes contain molecular records of viral transmission histories that can be used to reconstruct how viruses move across time, space, and host groups. In this report, we present an overview of the HPAI H5Nx outbreak that began in 2021 in North America, and how it has evolved over time. This work highlights the utility of phylogenetics for interrogating outbreak dynamics, and is built on the incredible surveillance and outbreak response activities by scientists at the USDA."
