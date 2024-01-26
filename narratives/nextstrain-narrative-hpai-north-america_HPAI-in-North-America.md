@@ -1,6 +1,6 @@
 ---
 title: "HPAI outbreak dynamics in North America: 2021-present"
-authors: "Anna Jaeger"
+authors: "Anna Jaeger and Louise Moncla"
 affiliations: "[Moncla Lab](https://lmoncla.github.io/monclalab/), Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania"
 date: "January 2024"
 dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
@@ -8,13 +8,12 @@ abstract: "In December of 2021, highly pathogenic avian influenza viruses (HPAI)
 ---
 # [Introduction to Highly Pathogenic Avian Influenza](https://nextstrain.org/flu/avian/h5n1/ha?animate=1996-03-10,2023-10-11,1,1,30000&d=map&p=full) 
 
-Highly pathogenic avian influenza (HPAI) has disseminated globally since the emergence of HPAI H5N1 in Guangdong China in 1996, resulting in outbreaks primarily throughout Asia, Europe, and Africa. 
+Influenza A viruses naturally circulate in wild, aquatic birds, but can jump hosts to infect new species. Influenza viruses are divided into subtypes determined by the combination of their two surface proteins, hemagglutinin (HA, or H), of which there are 16 subtypes, and neuraminidase (NA, or N), of which there are 9. 16 HA and 9 NA subtypes circulate in the wild bird reservoir, with each HA/NA combination comprising a distinct subtype. While H5N1 is the predominant subtype of the current HPAI outbreak, these viruses frequently reassort to generate other HA/NA combinations. Reassortment occurs when distinct viruses co-infect the same cell, and shuffle their genomes to generate new subtypes. Because of the ability of currently circulating H5 virueses to acquire new NA subtypes via reassortment, we will refer to the viruses causing this outbreak as "H5Nx" viruses. Viruses are further classified into clades, which is determined based on HA gene sequence similarity. Viruses in the present outbreak belong to clade 2.3.4.4b. 
 
-Influenza A viruses are divided into subtypes determined by the combination of their two surface proteins, hemagglutinin (H), of which there are 16 subtypes, and neuraminidase (N), of which there are 9. Each combination of H and N is a different subtype. H5N1 is the predominant subtype of the current HPAI outbreak, however some other N subtypes are inolved as well, thus we primarily refer to this outbreak as "H5Nx". Viruses are further classified into clades, which is determined based on HA gene sequence similarity. Viruses in the present outbreak belong to clade 2.3.4.4b.
+Avian influenza viruses are further classified by their pathogenicity, which is designated as high-path (HP) or low-path (LP) due to their ability to cause disease in domestic chickens. Genetically, this pathogenic outcome is primarily determined by the absence (in LP) or presence (in HP) of a polybasic HA cleavage site. Highly pathogenic avian influenza (HPAI) viruses were first discovered during outbreaks among domestic geese in China in 1996, followed by fatal human infections in 1997. Since that initial emergence event, HPAI has disseminated globally, resulting in outbreaks in humans and domestic birds throughout Asia, Europe, and Africa. These viruses have established endemically in domestic bird populations in Southeast Asia, China, and Northern Africa, but can also be spread via wild bird migration. A notable example of this occurred when migrating, [wild birds carried HPAI into North America in 2015](https://www.science.org/doi/10.1126/science.aaf8852), sparking an H5N8 outbreak that resulted in widespread impacts on US agriculture. However, this outbreak was successfully extinguished following extensive culling. 
 
-Avian influenza viruses are further classified by their pathogenicity, which is designated as high-path (HP) or low-path (LP) due to their ability to cause disease in domestic chickens. Genetically, this pathogenic outcome is primarily determined by the absence (in LP) or presence (in HP) of a polybasic HA cleavage site. 
+The H5Nx panzootic (animal pandemic) has been unusual in that extensive culling in agricultural birds has not stopped transmission, the outbreak has spread geographically to much higher degree than past outbreaks, and there have been widespread infections in non-canonical wild bird and mammal species. In this narrative, we will explore the ways in which we can use viral sequence data to reconstruct the outbreak and identify potential future avenues for investigation and public health intervention. 
 
-Wild aquatic birds are the primary natural reservoir for avian influenza.
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?d=tree&p=full)
 
