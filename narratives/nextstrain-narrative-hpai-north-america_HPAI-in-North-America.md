@@ -86,7 +86,7 @@ Using phylogenetics, we can further identify patterns of spread between species 
 
 
 ### Onward spread
-One hypothesis for why we have seen such rapid spread throughout the continent is likely due to the virus spreading with the movement of wild birds. The natural reservoir species for avian influenza viruses are wild, aquatic, migratory birds. Bird migration patterns can be described by flyways, of which the US has 4: Atlantic, Mississippi, Central, and Pacific. To investigate whether H5Nx viruses in North America cluster by flyway, we took each sequence from North America and colored it by the flyway of the US state the virus was sampled from. 
+One hypothesis for why we have seen such rapid spread throughout the continent is likely due to the virus spreading with the movement of wild birds. The natural reservoir species for avian influenza viruses are wild, aquatic, migratory birds, and bird migration patterns can be described by . The US has 4 major flyways: Atlantic, Mississippi, Central, and Pacific. To investigate whether H5Nx viruses in North America cluster by flyway, we took each sequence from North America and colored it by the flyway of the US state the virus was sampled from. 
 
 Coloring by migratory flyway, we can see that the bottom of the tree has a big blue branch, and a smaller, divergent yellow branch. The main, blue branch represents the introduction originating from Europe that resulted in intensive onward transmission. This reconstruction suggests that this main introduction occurred via the Atlantic flyway. In contrast, the smaller branch at the bottom represents the myriad introductions from Asia, that we infer occurring via the Pacific flyway. Across the tree, we see that viruses largely cluster with other viruses sampled in the same flyway or in the adjacent flyway. This pattern is consistent with transmission predominantly within flyways, with some transmission between flyways.
 
@@ -96,13 +96,13 @@ There are several unique attributes to this outbreak that have not been recogniz
 
 ### 1. The role of wild birds, part I
 
-This outbreak has resulted in high rates of infection in non-canonical wild bird species, as well as non-human mammal infections. 
+This outbreak has resulted in high rates of infection in non-canonical wild bird species, like raptors, cranes, and songbirds, as well as non-human mammal infections. 
 
 Here, when we look at sequences as coming from wild or domestic (birds), mammals, or backyard birds, we see a high involvement of wild birds, as well infections of non-human mammals throughout North America. 
 
-Backyard birds are designated as smaller-scale non-commercial domestic poultry (primarily chickens, yellow). Backyard bird infections are represented throughout the phylogeny which suggests their potential role as an intermediary facilitating infection beween wild and domestic birds *(Click on the dropdown arrow to open the 'Domestic Status' legend, and hover over the key for Backyard Birds to see more clearly)*.
+Backyard birds are designated as smaller-scale non-commercial domestic poultry (primarily chickens, yellow). Backyard bird and commercial poultry infections are represented throughout the phylogeny, suggesting multiple independent transmission events between wild and domestic birds. In studies of domestic birds in Asia, outdoor poultry rearing has been linked to incursions of HPAI into domestic flocks, suggesting a plausible link between wild and domestic bird populations. *(Click on the dropdown arrow to open the 'Domestic Status' legend, and hover over the key for Backyard Birds to see more clearly)*.
 
-*An important caveat to this analysis is sampling biases and limitations. Information on backyard bird status is only available from the initial outbreak period in spring 2022, therefore their role in ongoing transmission and maintenance is presently unknown. Additionally, wildbirds are undersampled and difficult to sample, making this outbreak especially difficult to understand and analyze entirely.*
+*An important caveat to this analysis is that phylodynamic modeling is heavily impacted by the number and types of sequences that are available. Not all infections are equally likely to be sampled and sequenced, and it is challenging to capture all infections in wild or commercial birds. Wild birds are particularly undersampled and hard to sample, making this outbreak especially difficult to understand and analyze entirely. Additionally, information on whether domestic birds sequences represent infections in commercial poultry vs. backyard birds is only available from the initial outbreak period in spring 2022, limiting our ability to assess their role in transmission throughout the outbreak period.*
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=species_group&d=tree&p=full&r=region)
 
@@ -110,7 +110,7 @@ There are several unique attributes to this outbreak that have not been recogniz
 
 ### 1. The role of wild birds, part II
 
-The typical main species involved in HPAI outbreaks and spread are anseriformes (chickens) and galliformes (ducks and geese). When we analyze the types of birds affected in this outbreak at a higher resolution, we see that anseriformes and galliformes are still the predominant drivers of this outbreak. However, there are also substantial numbers of infections in other avian orders including many raptors (eagles, vultures, owls, and hawks) and many passerines (primarily corvids). 
+Typically, the main species involved in HPAI outbreaks and spread are Anseriformes (ducks, geese, and swans) and Galliformes (chickens, turkeys, and quails). When we analyze the types of birds affected in this outbreak at a higher resolution, we see that Anseriformes and Galliformes are still the predominant drivers of this outbreak. However, there are also substantial numbers of infections in other avian orders including many raptors (eagles, vultures, owls, and hawks) and many Passerines (primarily corvids). These infections in raptors and Passerines fall throughout the entire diversity of the outbreak, suggesting that this pattern was widespread, and not linked to particular subset of circulating viruses. 
 
 These infections have implications for conservation, as well as novel transmission dynamics with HPAI reaching new ecological niches and species interactions.
 
@@ -120,7 +120,7 @@ There are several unique attributes to this outbreak that have not been recogniz
 
 ### 2. Mammal infections 
 
-In addition to non-canonical wild bird infections, this outbreak has also resulted in high incidences of mammal infections. The position of these samples at tips throughout the tree indicate multiple independent introductions into mammals with no onward spread from these mammal infections. 
+In addition to non-canonical wild bird infections, this outbreak has also resulted in high incidences of mammal infections. The position of these samples at tips throughout the tree, nested with infections sampled from birds, indicate multiple independent introductions into mammals that result from independent spillovers. 
 
 *(Scroll down on the right hand panel to see the map view below the tree).* 
 These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, seals) and small carnivores (foxes, skunks, etc.). The primarily northern distribution of mammalian infections is due to red foxes being the most commonly infected mammal sampled in this outbreak. 
@@ -145,7 +145,7 @@ At the top of this branch, we see identical sequences collected from gulls, tern
 
 # [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=Domestic_Status&scatterY=gt)
 
-Using Nextstrain filtering functionalities, we can also assess the prevalence of mutations of interest. 
+One big question from this outbreak is: are these viruses evolving during infection in mammals? We can take a look at this question by filtering and coloring our data by the presence or absence of know, mammal-adaptive mutations. 
 
 ### Mammalian adaptations, part I:
 
