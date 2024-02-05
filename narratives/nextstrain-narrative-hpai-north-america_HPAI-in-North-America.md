@@ -181,7 +181,7 @@ By filtering the tree and map to just these sequences containing the PB2 627K mu
 
 ### Mammalian adaptations, part II:
 
-Another well-characterized mammalian adaptive mutation in PB2 is D701N. This is less prevalent than E627K, but is present in 7 sampled infections in this outbreak. Five of these  occurences are from mammals- both marine and terrestrial. The sampled avian occurences are both from raptors (turkey vulture and red-tailed hawk). Like the 627K mutation, 701N is present throughout the phylogeny and across the map (scroll down to see map view).
+Another well-characterized mammalian adaptive mutation in PB2 is D701N. This phylogeny here is filtered to samples containing this 701N mutation and colored by species group. We see that 701N is less prevalent than E627K, but is present in 7 sampled infections in this outbreak. Five of these  occurences are from mammals- both marine and terrestrial. The sampled avian occurences are both from raptors (turkey vulture and red-tailed hawk). Like the 627K mutation, 701N is present throughout the phylogeny and across the map (scroll down to see map view).
 
 # [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627,701&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=host&scatterY=gt)
 
@@ -204,3 +204,9 @@ It is uncertain how this outbreak will progress and what the future holds of HPA
 
 Given this uncertainty- and complicated ecology of this outbreak- we need continued and increased surveillance in wild birds to understand both the current dynamics and better predict and curtail future outbreaks and spread.
 
+
+# [Acknowledgements](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
+
+We thank the GISAID Initiative for critical surveillance efforts and open data sharing. We gratefully acknowledge the authors, originating and submitting laboratories of sequences from the GISAID EpiFlu Database on which this research is based. This work was also made possible by the USDA and the National Veterinary Services Laboratories as well as a network of veterinary diagnostic labs. We gratefully acknowledge the Nextstrain team for this amazing resource and platform for phylogenetic visualization and analysis. 
+
+If you would like to explore any of the trees or data shown in this narrative, please click 'EXPLORE THE DATA YOURSELF' in the top right hand corner of the visualization.
