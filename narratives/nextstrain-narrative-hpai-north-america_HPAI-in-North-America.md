@@ -169,18 +169,27 @@ One such mutation is PB2 E267K, which is associated with mammalian host adaption
 
 Using Nextstrain filtering functionalities, we can also identify the prevalence of mutations of interest. 
 
-### Mammalian adaptations, part II:
+### Mammalian adaptations, part I:
 
 *One such mutation is PB2 E627K which is associated with mammalian host adaption. PB2 E267K- as well as a different amino acid substitution in the same position, E627V- are present in 14% of nonhuman mammal infections. PB2 E627K is also found at lower rates in wild birds, domestic birds, and a single sampled backyard bird infection.* 
 
 By filtering the tree and map to just these sequences containing the PB2 627K mutation, we can contextualize them in space and time. Here, we see the PB2 mutation is present throughout the phylogeny and in samples from 10 states and one Canadian province, indiciating that this mutation has arisen independently multiple times during this outbreak. 
 
-# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=Domestic_Status&d=tree,map&f_region=North%20America&gmax=2283&gmin=4&gt=PB2.627K&p=grid&r=division&LegendOpen)
+# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=species_group&d=tree,map&gmax=2283&gmin=4&gt=PB2.701N&r=division)
 
-Using Nextstrain filtering functionalities, we can also identify the prevalence of mutations of interest. 
 
-### Mammalian adaptations, part III:
 
+### Mammalian adaptations, part II:
+
+Another well-characterized mammalian adaptive mutation in PB2 is D701N. This is less prevalent than E627K, but is present in 7 sampled infections in this outbreak. Five of these  occurences are from mammals- both marine and terrestrial. The sampled avian occurences are both from raptors (turkey vulture and red-tailed hawk). Like the 627K mutation, 701N is present throughout the phylogeny and across the map (scroll down to see map view).
+
+# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627,701&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=host&scatterY=gt)
+
+
+
+### Mammalian adaptations, part II:
+
+By grouping by genotype at these two adaptive sites in PB2- 627 and 701- we see that there is no overlap of infections that have both 627K and 701N (K/N), but we have both of these occurring in numerous individual infections, primarily in mammals. 
 
 
 # [Conclusions](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
