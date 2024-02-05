@@ -29,11 +29,11 @@ The USDA has been leading outbreak investigation in the United States, and compi
 
 ### Origins
 
-Phylogenetic reconstruction allows us to infer the introductions into North America that seeded this outbreak. 
+Phylogenetic reconstruction allows us to infer the introductions into North America that seeded this outbreak. Here, we built a phylogenetic tree with H5Nx sequences from clade 2.3.4.4b sampled from 2021 to present. By comparing how viruses from these different geographic locations cluster together, we can make inferences about how outbreaks in distinct geographic locations are related to each other. 
 
-Looking at the global dynamics of H5Nx clade 2.3.4.4b since 2021, we can see that the major introduction responsible for the majority of infections (the main red branch) came from Europe. 
+Looking at the global dynamics of H5Nx clade 2.3.4.4b since 2021, we can see that infections sampled in North America (red branches) mostly fall into one, main cluster. This large grouping of viruses nest within the diversity of viruses circulating in Europe, suggesting that a single introduction from Europe is responsible for most of the sampled infections in North America. 
 
-There were additionally multiple separate introductions from Asia during this time, however these have seemingly not contributed to onward transmission within North America. 
+There were additionally multiple separate introductions from Asia during this time, though these introductions lead to very small clusters that contain only a few tips. This pattern suggests that these other introductions have seemingly not contributed significantly to onward transmission within North America. 
 
 This global phylogenetic reconstruction also shows that introduction into North America has led to further spread and introduction of HPAI to new regions during this outbreak, including South America (orange) and most recently, Antarctica (dark blue).
 
@@ -49,7 +49,7 @@ This global phylogenetic reconstruction also shows that introduction into North 
 
 *This global phylogenetic reconstruction also shows that introduction into North America has led to further spread and intoruction of HPAI to new regions during this outbreak, including South America (orange) and most recently, Antarctica (dark blue).*
 
-#### These dynamics described above are clearly shown in the phylogenetic tree, and recapitulated in this map view.  
+#### These dynamics described above are clearly shown in the phylogenetic tree, and recapitulated in this map view. Notice how extensive transmission in Europe seeded an introduction into North America, that then spread southwards.
 
 # [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?LegendOpen&animate=2021-08-05,2023-05-28,1,1,30000&c=division&d=tree,map&p=full&r=division) 
 
@@ -86,9 +86,9 @@ Using phylogenetics, we can further identify patterns of spread between species 
 
 
 ### Onward spread
-One reason we have seen such rapid spread throughout the continent is likely due to the virus spreading with the movement of wild birds. 
+One hypothesis for why we have seen such rapid spread throughout the continent is likely due to the virus spreading with the movement of wild birds. The natural reservoir species for avian influenza viruses are wild, aquatic, migratory birds. Bird migration patterns can be described by flyways, of which the US has 4: Atlantic, Mississippi, Central, and Pacific. To investigate whether H5Nx viruses in North America cluster by flyway, we took each sequence from North America and colored it by the flyway of the US state the virus was sampled from. 
 
-Coloring by migratory flyway, we can see that the main branch originating from Europe was introduced to the Atlantic flyway, whereas the smaller branch introduced from Asia entered via the Pacific flyway. Viruses largely cluster within flyways with some transmission between flyways.
+Coloring by migratory flyway, we can see that the bottom of the tree has a big blue branch, and a smaller, divergent yellow branch. The main, blue branch represents the introduction originating from Europe that resulted in intensive onward transmission. This reconstruction suggests that this main introduction occurred via the Atlantic flyway. In contrast, the smaller branch at the bottom represents the myriad introductions from Asia, that we infer occurring via the Pacific flyway. Across the tree, we see that viruses largely cluster with other viruses sampled in the same flyway or in the adjacent flyway. This pattern is consistent with transmission predominantly within flyways, with some transmission between flyways.
 
 # [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&d=tree,map&p=grid&r=division)
 
