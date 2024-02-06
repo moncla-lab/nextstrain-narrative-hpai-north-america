@@ -148,7 +148,7 @@ At the top of this branch, we see identical sequences collected from gulls, tern
 ```auspiceMainDisplayMarkdown
 
 <div>
-  <img alt="snapshot of species diversity in New England" width="200%" src="https://github.com/moncla-lab/nextstrain-narrative-hpai-north-america/blob/narrative-update/figures/screenshot_tree_for-narrative.png?raw=true"/>
+  <img alt="snapshot of species diversity in New England" width="200%" src="https://github.com/moncla-lab/nextstrain-narrative-hpai-north-america/blob/main/figures/screenshot_tree_for-narrative.png?raw=true"/>
 </div>
 
 ```
