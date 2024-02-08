@@ -209,6 +209,6 @@ Given this uncertainty- and complicated ecology of this outbreak- we need contin
 
 # [Acknowledgements](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
 
-We thank the GISAID Initiative for critical surveillance efforts and open data sharing. We gratefully acknowledge the authors, originating and submitting laboratories of sequences from the GISAID EpiFlu Database on which this research is based. This work was also made possible by the USDA and the National Veterinary Services Laboratories as well as a network of veterinary diagnostic labs. We gratefully acknowledge the Nextstrain team for this amazing resource and platform for phylogenetic visualization and analysis. 
+We thank the GISAID Initiative for critical surveillance efforts and open data sharing. We gratefully acknowledge the authors, originating and submitting laboratories of sequences from the GISAID EpiFlu Database on which this research is based. This work was also made possible by the USDA and the National Veterinary Services Laboratories as well as a network of veterinary diagnostic labs. We gratefully acknowledge the Nextstrain team for all their work devleoping and maintaining this platform for phylogenetic visualization and analysis. 
 
 If you would like to explore any of the trees or data shown in this narrative, please click 'EXPLORE THE DATA YOURSELF' in the top right hand corner of the visualization.
