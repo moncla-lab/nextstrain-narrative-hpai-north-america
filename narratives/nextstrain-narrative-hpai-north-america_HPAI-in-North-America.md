@@ -1,6 +1,6 @@
 ---
 title: "HPAI outbreak dynamics in North America: 2021-present"
-authors: "Anna Jaeger and Louise Moncla"
+authors: "Anna Jaeger, Lambodhar Damodaran, Louise Moncla"
 affiliations: "[Moncla Lab](https://lmoncla.github.io/monclalab/), Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania"
 date: "January 2024"
 dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
