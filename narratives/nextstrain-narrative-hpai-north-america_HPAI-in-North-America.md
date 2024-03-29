@@ -164,7 +164,7 @@ One big question from this outbreak is: are these viruses evolving during infect
 
 Given the high incidences of mammalian infections during this outbreak, the presence of mammalian host adaptations arising is a significant concern. 
 
-One such mutation is PB2 E267K, which is associated with mammalian host adaption. PB2 E267K- as well as a different amino acid substitution in the same position, PB2 E627V- are present in 14% of nonhuman mammal infections. PB2 E267K is also present in wild birds, domestic birds, and a single sampled backyard bird infection. 
+One such mutation is PB2 E627K, which is associated with mammalian host adaption. PB2 E627K- as well as a different amino acid substitution in the same position, PB2 E627V- are present in 14% of nonhuman mammal infections. PB2 E627K is also present in wild birds, domestic birds, and a single sampled backyard bird infection. 
 
 
 # [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=Domestic_Status&d=tree,map&f_region=North%20America&gmax=2283&gmin=4&gt=PB2.627K&p=grid&r=division&LegendOpen)
@@ -173,7 +173,7 @@ Using Nextstrain filtering functionalities, we can also identify the prevalence 
 
 ### Mammalian adaptations, part I:
 
-*One such mutation is PB2 E627K which is associated with mammalian host adaption. PB2 E267K- as well as a different amino acid substitution in the same position, E627V- are present in 14% of nonhuman mammal infections. PB2 E627K is also found at lower rates in wild birds, domestic birds, and a single sampled backyard bird infection.* 
+*One such mutation is PB2 E627K which is associated with mammalian host adaption. PB2 E627K- as well as a different amino acid substitution in the same position, E627V- are present in 14% of nonhuman mammal infections. PB2 E627K is also found at lower rates in wild birds, domestic birds, and a single sampled backyard bird infection.* 
 
 By filtering the tree and map to just these sequences containing the PB2 627K mutation, we can contextualize them in space and time. Here, we see the PB2 mutation is present throughout the phylogeny and in samples from 10 states and one Canadian province, indiciating that this mutation has arisen independently multiple times during this outbreak. 
 
