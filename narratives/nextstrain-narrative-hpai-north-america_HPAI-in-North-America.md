@@ -28,7 +28,7 @@ In 2021, an H5Nx outbreak began in the Americas that has been unusual in several
 The USDA has been leading outbreak investigation in the United States, and compiles case counts for every test positive case of HPAI in domestic and wild animals. These infections are confirmed via PCR testing of animals as part of ongoing surveillance and when infections are suspected. As part of this surveillance and testing program, USDA scientists generate whole genome sequence data and upload these data to public databases like GISAID and Genbank. We are extremely grateful to the USDA for their fantastic outbreak response and timely data sharing. Other scientists across the Americas have also contributed sequence data to public repositories, and this narrative is built off of this global network of data sharing. For more information, check out the USDA's dashboard with surveillance and case count data [here (domestic birds)](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-commercial-backyard-flocks) and [here (wild birds)](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-wild-birds), or read their [paper](https://www.sciencedirect.com/science/article/pii/S0042682223001733) on the outbreak for more information on their response efforts. 
 
 
-# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?d=tree&p=full)
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/global?d=tree&p=full)
 
 
 ### Origins
@@ -43,7 +43,7 @@ There were additionally multiple separate introductions from Asia during this ti
 
 This global phylogenetic reconstruction also shows that introduction into North America has led to further spread and introduction of HPAI to new regions during this outbreak, including South America (orange) and most recently, Antarctica (dark blue).
 
-# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/global-2021-present/ha?animate=2020-06-26,2023-12-05,0,1,30000&d=map&p=full)
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/global?animate=2020-06-26,2023-12-05,0,1,30000&d=map&p=full)
 
 ***Origins***
 
