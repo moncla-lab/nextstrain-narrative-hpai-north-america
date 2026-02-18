@@ -3,7 +3,7 @@ title: "HPAI outbreak dynamics in North America: 2021-present"
 authors: "Anna Jaeger, Lambodhar Damodaran, Louise Moncla"
 affiliations: "[Moncla Lab](https://lmoncla.github.io/monclalab/), Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania"
 date: "January 2024"
-dataset: "https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha"
+dataset: "https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha"
 abstract: "In December of 2021, highly pathogenic avian influenza viruses (HPAI) of the H5 subtype were detected in wild and domestic birds in Newfoundland, Canada. Since then, H5Nx has spread throughout the Americas, impacting wildlife, agricultural animals, and human health. Viral genomes contain molecular records of viral transmission histories that can be used to reconstruct how viruses move across time, space, and host groups. In this report, we present an overview of the HPAI H5Nx outbreak that began in 2021 in North America, and how it has evolved over time. This work highlights the utility of phylogenetics for interrogating outbreak dynamics, and is built on the incredible surveillance and outbreak response activities by scientists at the USDA."
 ---
 
@@ -57,13 +57,13 @@ This global phylogenetic reconstruction also shows that introduction into North 
 
 #### These dynamics described above are clearly shown in the phylogenetic tree, and recapitulated in this map view. Notice how extensive transmission in Europe seeded an introduction into North America, that then spread southwards.
 
-# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?LegendOpen&animate=2021-08-05,2023-05-28,1,1,30000&c=division&d=tree,map&p=full&r=division) 
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?LegendOpen&animate=2021-08-05,2023-05-28,1,1,30000&c=division&d=tree,map&p=full&r=division) 
 
 Since this introduction in late 2021 into North America, HPAI H5Nx viruses belonging to clade 2.3.4.4.b have rapidly spread rapidly throughout the continent. 
 
 Using phylogenetics, we can further identify patterns of spread between species and regions, and identify mutations that have arisen during this outbreak.
 
-# [HPAI in North America by the numbers](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=full&r=division)
+# [HPAI in North America by the numbers](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=flyway&d=tree,map&p=full&r=division)
 
 ### Further Reading:
 
@@ -88,7 +88,7 @@ Using phylogenetics, we can further identify patterns of spread between species 
 ```
 
 
-# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=flyway&d=tree,map&p=full&r=division)
+# [Origins and spread of the North American outbreak](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=flyway&d=tree,map&p=full&r=division)
 
 
 ### Onward spread
@@ -97,7 +97,7 @@ One hypothesis for why we have seen such rapid spread throughout the continent i
 
 Coloring by migratory flyway, we can see that the bottom of the tree has a big blue branch, and a smaller, divergent yellow branch. The main, blue branch represents the introduction originating from Europe that resulted in intensive onward transmission. This reconstruction suggests that this main introduction occurred via the Atlantic flyway. In contrast, the smaller branch at the bottom represents the myriad introductions from Asia, that we infer occurring via the Pacific flyway. Across the tree, we see that viruses largely cluster with other viruses sampled in the same flyway or in the adjacent flyway. This pattern is consistent with transmission predominantly within flyways, with some transmission between flyways.
 
-# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=Domestic_Status&d=tree,map&p=grid&r=division)
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=Domestic_Status&d=tree,map&p=grid&r=division)
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
@@ -113,7 +113,7 @@ Backyard birds are designated as smaller-scale non-commercial domestic poultry (
 *An important caveat to this analysis is that phylodynamic modeling is heavily impacted by the number and types of sequences that are available. Not all infections are equally likely to be sampled and sequenced, and it is challenging to capture all infections in wild or commercial birds. Wild birds are particularly undersampled and hard to sample, making this outbreak especially difficult to understand and analyze entirely. Additionally, information on whether domestic birds sequences represent infections in commercial poultry vs. backyard birds is only available from the initial outbreak period in spring 2022, limiting our ability to assess their role in transmission throughout the outbreak period.*
 
 
-# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=species_group&d=tree&p=full&r=region)
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=species_group&d=tree&p=full&r=region)
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
@@ -125,7 +125,7 @@ Typically, the main species involved in HPAI outbreaks and spread are Anseriform
 
 These infections have implications for conservation, as well as novel transmission dynamics with HPAI reaching new ecological niches and species interactions.
 
-# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=species_group&d=tree,map&f_host=Nonhuman%20Mammal&p=full&r=division)
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=species_group&d=tree,map&f_host=Nonhuman%20Mammal&p=full&r=division)
 
 There are several unique attributes to this outbreak that have not been recognized in prior outbreaks.
 
@@ -139,7 +139,7 @@ In addition to non-canonical wild bird infections, this outbreak has also result
 These mammal infections have occured throughout North America, and primarily are affecting marine mammals (in the US, seals) and small carnivores (foxes, skunks, etc.). The primarily northern distribution of mammalian infections is due to red foxes being the most commonly infected mammal sampled in this outbreak. 
 
 
-# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=order&d=tree&m=div&p=full&r=division)
+# [What is unique about this outbreak?](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=order&d=tree&m=div&p=full&r=division)
 
 A snapshot of the novel diversity of species involved in this outbreak is exemplified in this branch of infections in New England summer 2022.
 
@@ -156,7 +156,7 @@ At the top of this branch, we see identical sequences collected from gulls, tern
 ```
 
 
-# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=Domestic_Status&scatterY=gt)
+# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/pb2?branches=hide&c=gt-PB2_627&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=Domestic_Status&scatterY=gt)
 
 One big question from this outbreak is: are these viruses evolving during infection in mammals? We can take a look at this question by filtering and coloring our data by the presence or absence of know, mammal-adaptive mutations. 
 
@@ -167,7 +167,7 @@ Given the high incidences of mammalian infections during this outbreak, the pres
 One such mutation is PB2 E627K, which is associated with mammalian host adaption. PB2 E627K- as well as a different amino acid substitution in the same position, PB2 E627V- are present in 14% of nonhuman mammal infections. PB2 E627K is also present in wild birds, domestic birds, and a single sampled backyard bird infection. 
 
 
-# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=Domestic_Status&d=tree,map&f_region=North%20America&gmax=2283&gmin=4&gt=PB2.627K&p=grid&r=division&LegendOpen)
+# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/pb2?c=Domestic_Status&d=tree,map&f_region=North%20America&gmax=2283&gmin=4&gt=PB2.627K&p=grid&r=division&LegendOpen)
 
 Using Nextstrain filtering functionalities, we can also identify the prevalence of mutations of interest. 
 
@@ -177,7 +177,7 @@ Using Nextstrain filtering functionalities, we can also identify the prevalence 
 
 By filtering the tree and map to just these sequences containing the PB2 627K mutation, we can contextualize them in space and time. Here, we see the PB2 mutation is present throughout the phylogeny and in samples from 10 states and one Canadian province, indiciating that this mutation has arisen independently multiple times during this outbreak. 
 
-# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?c=species_group&d=tree,map&gmax=2283&gmin=4&gt=PB2.701N&r=division)
+# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/pb2?c=species_group&d=tree,map&gmax=2283&gmin=4&gt=PB2.701N&r=division)
 
 
 
@@ -185,7 +185,7 @@ By filtering the tree and map to just these sequences containing the PB2 627K mu
 
 Another well-characterized mammalian adaptive mutation in PB2 is D701N. This phylogeny here is filtered to samples containing this 701N mutation and colored by species group. We see that 701N is less prevalent than E627K, but is present in 7 sampled infections in this outbreak. Five of these  occurences are from mammals- both marine and terrestrial. The sampled avian occurences are both from raptors (turkey vulture and red-tailed hawk). Like the 627K mutation, 701N is present throughout the phylogeny and across the map (scroll down to see map view).
 
-# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/pb2?branches=hide&c=gt-PB2_627,701&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=host&scatterY=gt)
+# [Viral evolution](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/pb2?branches=hide&c=gt-PB2_627,701&d=tree&gmax=2283&gmin=4&l=scatter&p=full&r=division&scatterX=host&scatterY=gt)
 
 
 
@@ -194,7 +194,7 @@ Another well-characterized mammalian adaptive mutation in PB2 is D701N. This phy
 By grouping by genotype at these two adaptive sites in PB2- 627 and 701- we see that there is no overlap of infections that have both 627K and 701N (K/N), but we have both of these occurring in numerous individual infections, primarily in mammals. 
 
 
-# [Conclusions](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
+# [Conclusions](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
 
 ### Take home messages:
 
@@ -207,7 +207,7 @@ It is uncertain how this outbreak will progress and what the future holds of HPA
 Given this uncertainty- and complicated ecology of this outbreak- we need continued and increased surveillance in wild birds to understand both the current dynamics and better predict and curtail future outbreaks and spread.
 
 
-# [Acknowledgements](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
+# [Acknowledgements](https://nextstrain.org/groups/moncla-lab/h5nx-2022-outbreak-narrative/ha?c=geo_region_na&d=tree&gmin=4&p=full&r=division)
 
 We thank the GISAID Initiative for critical surveillance efforts and open data sharing. We gratefully acknowledge the authors, originating and submitting laboratories of sequences from the GISAID EpiFlu Database on which this research is based. This work was also made possible by the USDA and the National Veterinary Services Laboratories as well as a network of veterinary diagnostic labs. We gratefully acknowledge the Nextstrain team for all their work devleoping and maintaining this platform for phylogenetic visualization and analysis. 
 
